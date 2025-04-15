@@ -2,3 +2,5 @@ venv
 .env 
 artifacts
 dataset/
+pegasus-samsum*
+tokenizer
